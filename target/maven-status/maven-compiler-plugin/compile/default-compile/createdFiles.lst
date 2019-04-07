@@ -1,0 +1,5 @@
+com/olichid/notetaking/NotetakingApplication.class
+com/olichid/notetaking/controller/NoteController.class
+com/olichid/notetaking/repository/NoteRepository.class
+com/olichid/notetaking/model/Note.class
+com/olichid/notetaking/exception/ResourceNotFoundException.class
